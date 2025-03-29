@@ -1,9 +1,9 @@
 ## Hi there 👋 I am Gantabya - Laravel Developer & WordPress Expert
 
 
-As a **JavaScript Developer & WordPress Expert** since **2020**, my passion lies in building **high-performance web applications** and **custom WordPress solutions** that drive business growth. With a focus on **frontend excellence**, I specialize in creating **seamless, interactive, and user-centric experiences** that leave a lasting impact.
+As a **Full Stack Laravel Developer & WordPress Expert** since **2018**, my passion lies in building **high-performance web applications** and **custom WordPress solutions** that drive business growth. With a focus on **frontend excellence**, I specialize in creating **seamless, interactive, and user-centric experiences** that leave a lasting impact.
 
-As a **freelancer on Upwork & Fiverr**, I have been successfully delivering **WordPress websites, WooCommerce stores, and custom solutions** for clients worldwide, turning their ideas into thriving businesses.
+As a **freelancer on Fiverr**, I have been successfully delivering **WordPress websites, WooCommerce stores, and custom solutions** for clients worldwide, turning their ideas into thriving businesses.
 
 ## 🚀 What I Bring to the Table
 
@@ -18,13 +18,13 @@ As a **freelancer on Upwork & Fiverr**, I have been successfully delivering **Wo
     <tr>
       <td>
         <img
-          src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,js,ts"
+          src="https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap,js"
           height="40"
         />
       </td>
       <td>
         <img
-          src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,wordpress"
+          src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts"
           height="40"
         />
       </td>
@@ -35,25 +35,31 @@ As a **freelancer on Upwork & Fiverr**, I have been successfully delivering **Wo
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40" />
+        <img src="https://skillicons.dev/icons?i=mysql" 
+          height="40" 
+          />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=wordpress" height="40" />
+        <img src="https://skillicons.dev/icons?i=wordpress" 
+          height="40" 
+          />
       </td>
     </tr>
     <tr>
       <td><strong>Version Control</strong></td>
-      <td><strong>DevOps</strong></td>
+      <td><strong>Problem solver</strong></td>
     </tr>
     <tr>
       <td>
         <img
-          src="https://skillicons.dev/icons?i=git,github,gitlab"
+          src="https://skillicons.dev/icons?i=git,github"
           height="40"
         />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=docker" height="40" />
+        <img src="https://skillicons.dev/icons?i=vscode,discord,codepen" 
+          height="40" 
+          />
       </td>
     </tr>
     <tr>
@@ -62,7 +68,7 @@ As a **freelancer on Upwork & Fiverr**, I have been successfully delivering **Wo
     <tr>
       <td colspan="2">
         <img
-          src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,discord,vite"
+          src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,discord,vite,ai,npm"
           height="40"
         />
       </td>
