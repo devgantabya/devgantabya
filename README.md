@@ -18,7 +18,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
     <tr>
       <td>
         <img
-          src="https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap,js"
+          src="https://skillicons.dev/icons?i=vue,react,alpinejs,tailwind,bootstrap,js"
           height="40"
         />
       </td>
@@ -47,7 +47,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
     </tr>
     <tr>
       <td><strong>Version Control</strong></td>
-      <td><strong>Problem solver</strong></td>
+      <td><strong>Practice</strong></td>
     </tr>
     <tr>
       <td>
@@ -68,7 +68,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
     <tr>
       <td colspan="2">
         <img
-          src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,discord,vite,ai,npm"
+          src="https://skillicons.dev/icons?i=figma,ps,postman,vite,ai,npm,pr"
           height="40"
         />
       </td>
@@ -78,7 +78,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
 ## 🏆 **Why Work With Me?**  
 ✔ **5+ Years of Experience** – Proven track record in freelancing & development  
 ✔ **Problem-Solver** – Debugging, optimizing & refining applications  
-✔ **Marketplace Success** – Trusted by clients on **Upwork & Fiverr**  
+✔ **Marketplace Success** – Trusted by clients on Fiverr
 ✔ **Passionate Learner** – Always exploring new technologies   
 
 <hr />
