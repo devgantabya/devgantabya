@@ -110,7 +110,7 @@ As a **freelancer on Upwork & Fiverr**, I have been successfully delivering **Wo
 I’m open to **collaborations, freelance projects, and exciting opportunities** in web development. Let’s connect and bring ideas to business! 🚀 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/codersemon/" target="blank">
+  <a href="https://www.linkedin.com/in/devgantabya/" target="blank">
     <img
       align="center"
       src="https://img.icons8.com/color/48/linkedin.png"
@@ -119,7 +119,7 @@ I’m open to **collaborations, freelance projects, and exciting opportunities**
       width="40"
     />
   </a>
-  <a href="mailto:contact@emokhan.me" target="blank">
+  <a href="mailto:developergantabya@gmail.com" target="blank">
     <img
       align="center"
       src="https://img.icons8.com/color/48/apple-mail.png"
@@ -128,7 +128,7 @@ I’m open to **collaborations, freelance projects, and exciting opportunities**
       width="40"
     />
   </a>
-  <a href="https://www.facebook.com/codersemon/" target="blank">
+  <a href="https://www.facebook.com/devgantabya/" target="blank">
     <img
       align="center"
       src="https://img.icons8.com/?size=40&id=118497&format=png"
@@ -137,7 +137,7 @@ I’m open to **collaborations, freelance projects, and exciting opportunities**
       width="40"
     />
   </a>
-  <a href="https://www.instagram.com/codersemon/" target="blank">
+  <a href="https://www.instagram.com/dev_gantabya/" target="blank">
     <img
       align="center"
       src="https://img.icons8.com/?size=40&id=32323&format=png"
@@ -146,7 +146,7 @@ I’m open to **collaborations, freelance projects, and exciting opportunities**
       width="40"
     />
   </a>
-  <a href="https://x.com/coders_emon" target="blank">
+  <a href="https://x.com/dev_gantabya" target="blank">
     <img
       align="center"
       src="https://img.icons8.com/color/48/twitter--v1.png"
