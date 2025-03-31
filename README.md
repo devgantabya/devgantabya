@@ -96,7 +96,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
   </summary>
   <br />
   <div align="center">
-    <a href="https://github.com/codersemon">
+    <a href="https://github.com/devgantabya">
       <img
         height="180em"
         src="https://github-readme-stats.vercel.app/api?username=codersemon&show_icons=true&theme=tokyonight"
