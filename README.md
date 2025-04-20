@@ -78,9 +78,9 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
   </table>
 
 ## 🏆 **Why Work With Me?**  
-✔ **5+ Years of Experience** – Proven track record in freelancing & development  
-✔ **Problem-Solver** – Debugging, optimizing & refining applications  
-✔ **Marketplace Success** – Trusted by clients on Fiverr
+✔ **5+ Years of Experience** – Proven track record in freelancing & development <br/> 
+✔ **Problem-Solver** – Debugging, optimizing & refining applications  <br/>
+✔ **Marketplace Success** – Trusted by clients on Fiverr <br/>
 ✔ **Passionate Learner** – Always exploring new technologies   
 
 <hr />
