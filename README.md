@@ -1,13 +1,11 @@
 ## Hi there 👋 I am Gantabya - Laravel Developer & WordPress Expert
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devgantabya&label=Profile%20views&color=0e75b6&style=flat" alt="devgantabya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devgantabya" alt="devgantabya" /></a> </p>
-
-
 As a **Full Stack Laravel Developer & WordPress Expert** since **2018**, my passion lies in building **high-performance web applications** and **custom WordPress solutions** that drive business growth. With a focus on **frontend excellence**, I specialize in creating **seamless, interactive, and user-centric experiences** that leave a lasting impact.
 
 As a **freelancer on Fiverr**, I have been successfully delivering **WordPress websites, WooCommerce stores, and custom solutions** for clients worldwide, turning their ideas into thriving businesses.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devgantabya&label=Profile%20views&color=0e75b6&style=flat" alt="devgantabya" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devgantabya" alt="devgantabya" /></a> </p>
 
 ## 🚀 What I Bring to the Table
 
