@@ -1,6 +1,21 @@
-## Hi there 👋 I am Gantabya - Laravel Developer & WordPress Expert
+## 👋 Hi, I'm Prottoy  
+**Full-Stack MERN Developer | Laravel Developer | WordPress Expert**
 
-As a **Full Stack Laravel Developer & WordPress Expert** since **2018**, my passion lies in building **high-performance web applications** and **custom WordPress solutions** that drive business growth. With a focus on **frontend excellence**, I specialize in creating **seamless, interactive, and user-centric experiences** that leave a lasting impact.
+I’m a passionate web developer with strong experience in building modern, scalable, and user-friendly applications. I enjoy turning ideas into real-world products—whether it's a dynamic web application, a powerful backend system, or a fully customized WordPress solution.
+
+---
+
+### 🚀 What I Do
+- **MERN Stack Development**  
+  Building full-stack applications using MongoDB, Express.js, React, and Node.js.
+
+- **Laravel Development**  
+  Developing secure, efficient, and scalable backend systems and REST APIs.
+
+- **WordPress Development**  
+  Creating custom themes, plugins, and high-converting business websites.
+
+---
 
 As a **freelancer on Fiverr**, I have been successfully delivering **WordPress websites, WooCommerce stores, and custom solutions** for clients worldwide, turning their ideas into thriving businesses.
 
@@ -9,7 +24,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
 
 ## 🚀 What I Bring to the Table
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width="25" /> **Languages and Tools**
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width="25" /> **Tech Stack & Tools**
 
 
   <table>
@@ -20,13 +35,13 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
     <tr>
       <td>
         <img
-          src="https://skillicons.dev/icons?i=vue,react,alpinejs,tailwind,bootstrap,js"
+          src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap"
           height="40"
         />
       </td>
       <td>
         <img
-          src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts"
+          src="https://skillicons.dev/icons?i=nodejs,expressjs,php,laravel"
           height="40"
         />
       </td>
@@ -37,7 +52,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=mysql" 
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql" 
           height="40" 
           />
       </td>
@@ -65,12 +80,12 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
       </td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Tools</strong></td>
+      <td colspan="2"><strong>Other Tools</strong></td>
     </tr>
     <tr>
       <td colspan="2">
         <img
-          src="https://skillicons.dev/icons?i=figma,ps,postman,vite,ai,npm,pr"
+          src="https://skillicons.dev/icons?i=figma,ps,postman,vite,ai,npm,pr,firebase"
           height="40"
         />
       </td>
@@ -157,8 +172,8 @@ I’m open to **collaborations, freelance projects, and exciting opportunities**
   <a href="https://x.com/dev_gantabya" target="blank">
     <img
       align="center"
-      src="https://img.icons8.com/color/48/twitter--v1.png"
-      alt="twitter"
+      src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000"
+      alt="x"
       height="40"
       width="40"
     />
