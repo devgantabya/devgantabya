@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Prottoy  
+## 👋 Hi, I'm Gantabya Kumar Bayda  
 **Full-Stack MERN Developer | Laravel Developer | WordPress Expert**
 
 I’m a passionate web developer with strong experience in building modern, scalable, and user-friendly applications. I enjoy turning ideas into real-world products—whether it's a dynamic web application, a powerful backend system, or a fully customized WordPress solution.
@@ -85,7 +85,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
     <tr>
       <td colspan="2">
         <img
-          src="https://skillicons.dev/icons?i=figma,ps,postman,vite,ai,npm,pr,firebase"
+          src="https://skillicons.dev/icons?i=npm,vite,firebase,vercel,netlify,postman,figma,ps,ai,pr,notion"
           height="40"
         />
       </td>
