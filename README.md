@@ -132,7 +132,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
 ## 🤝 **Let’s Build Something Amazing!**  
 I’m open to **collaborations, freelance projects, and exciting opportunities** in web development. Let’s connect and bring ideas to business! 🚀 
 
-<p align="left">
+<p >
   <a href="https://www.linkedin.com/in/devgantabya/" target="blank">
     <img
       align="center"
