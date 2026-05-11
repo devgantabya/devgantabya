@@ -105,6 +105,13 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
 
   <br>
 
+  <p align="center">
+    <img
+      src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
+      width="35"
+    />
+  </p>
+
   <div align="center">
     <a href="https://github.com/devgantabya">
       <img
