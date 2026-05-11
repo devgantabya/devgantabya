@@ -35,7 +35,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
     <tr>
       <td>
         <img
-          src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap"
+          src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap"
           height="40"
         />
       </td>
@@ -52,13 +52,13 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql" 
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" 
           height="40" 
           />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=wordpress" 
-          height="40" 
+        <img src="https://skillicons.dev/icons?i=wordpress"
+          height="40"
           />
       </td>
     </tr>
@@ -74,7 +74,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
         />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=vscode,discord,codepen" 
+        <img src="https://skillicons.dev/icons?i=vscode,phpstorm,discord,codepen" 
           height="40" 
           />
       </td>
@@ -85,7 +85,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
     <tr>
       <td colspan="2">
         <img
-          src="https://skillicons.dev/icons?i=npm,vite,firebase,vercel,netlify,postman,figma,ps,ai,pr,notion"
+          src="https://skillicons.dev/icons?i=npm,vite,firebase,vercel,netlify,postman,devto,figma,ps,ai,pr,notion,bash,githubactions,sass"
           height="40"
         />
       </td>
