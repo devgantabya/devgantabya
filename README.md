@@ -105,56 +105,14 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgantabya&theme=github_dark)
 
 ---
-## 🤝 **Let’s Build Something Amazing!**  
-I’m open to **collaborations, freelance projects, and exciting opportunities** in web development. Let’s connect and bring ideas to business! 🚀 
 
-<p style="display:flex;">
-  <a href="https://www.linkedin.com/in/devgantabya/" target="blank">
-    <img
-      align="center"
-      src="https://img.icons8.com/color/48/linkedin.png"
-      alt="linkedin"
-      height="40"
-      width="40"
-    />
-  </a>
-  <a href="mailto:developergantabya@gmail.com" target="blank">
-    <img
-      align="center"
-      src="https://img.icons8.com/color/48/apple-mail.png"
-      alt="email"
-      height="40"
-      width="40"
-    />
-  </a>
-  <a href="https://www.facebook.com/devgantabya/" target="blank">
-    <img
-      align="center"
-      src="https://img.icons8.com/?size=40&id=118497&format=png"
-      alt="facebook"
-      height="40"
-      width="40"
-    />
-  </a>
-  <a href="https://www.instagram.com/dev_gantabya/" target="blank">
-    <img
-      align="center"
-      src="https://img.icons8.com/?size=40&id=32323&format=png"
-      alt="instagram"
-      height="40"
-      width="40"
-    />
-  </a>
-  <a href="https://x.com/dev_gantabya" target="blank">
-    <img
-      align="center"
-      src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000"
-      alt="x"
-      height="40"
-      width="40"
-    />
-  </a>
-</p>
+## Connect
 
+LinkedIn: https://www.linkedin.com/in/devgantabya/   
+Twitter/X: https://x.com/dev_gantabya   
+Facebook: https://www.facebook.com/devgantabya/  
+Instagram: https://www.instagram.com/dev_gantabya/  
+Website: https://gantabyacodes.vercel.app/  
+Email: gantabyakumarbayda@gmail.com  
 ---
 
