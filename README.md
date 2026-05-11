@@ -101,33 +101,24 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
 <hr />
 
 <details>
-  <summary>
-    <strong
-      ><img
-        src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
-        align="center"
-        width="35"
-      />
-      Github Stats (Click to expand)</strong
-    >
-  </summary>
-  <br />
+  <summary>📊 Github Stats (Click to expand)</summary>
+
+  <br>
+
   <div align="center">
     <a href="https://github.com/devgantabya">
       <img
         height="180em"
         src="https://github-readme-stats.vercel.app/api?username=devgantabya&show_icons=true&theme=tokyonight"
-        alt="devgantabya stats"
       />
+
       <img
         height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=devgantabya&layout=compact&langs_count=8&theme=tokyonight"
-        alt="Top Languages"
       />
     </a>
   </div>
 </details>
-
 ---
 ## 🤝 **Let’s Build Something Amazing!**  
 I’m open to **collaborations, freelance projects, and exciting opportunities** in web development. Let’s connect and bring ideas to business! 🚀 
