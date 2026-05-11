@@ -113,6 +113,7 @@ Twitter/X: https://x.com/dev_gantabya
 Facebook: https://www.facebook.com/devgantabya/  
 Instagram: https://www.instagram.com/dev_gantabya/  
 Website: https://gantabyacodes.vercel.app/  
-Email: gantabyakumarbayda@gmail.com  
+Email: gantabyakumarbayda@gmail.com 
+
 ---
 
