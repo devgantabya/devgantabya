@@ -98,34 +98,12 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
 ✔ **Marketplace Success** – Trusted by clients on Fiverr <br/>
 ✔ **Passionate Learner** – Always exploring new technologies   
 
-<hr />
+---
 
-<details>
-  <summary>📊 Github Stats (Click to expand)</summary>
+## GitHub Activity
 
-  <br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgantabya&theme=github_dark)
 
-  <p align="center">
-    <img
-      src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
-      width="35"
-    />
-  </p>
-
-  <div align="center">
-    <a href="https://github.com/devgantabya">
-      <img
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=devgantabya&show_icons=true&theme=tokyonight"
-      />
-
-      <img
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=devgantabya&layout=compact&langs_count=8&theme=tokyonight"
-      />
-    </a>
-  </div>
-</details>
 ---
 ## 🤝 **Let’s Build Something Amazing!**  
 I’m open to **collaborations, freelance projects, and exciting opportunities** in web development. Let’s connect and bring ideas to business! 🚀 
