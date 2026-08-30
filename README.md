@@ -52,7 +52,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" 
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis" 
           height="40" 
           />
       </td>
