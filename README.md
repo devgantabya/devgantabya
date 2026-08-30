@@ -41,7 +41,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
       </td>
       <td>
         <img
-          src="https://skillicons.dev/icons?i=nodejs,expressjs,php,laravel"
+          src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,php,prisma,laravel,swagger"
           height="40"
         />
       </td>
@@ -85,7 +85,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
     <tr>
       <td colspan="2">
         <img
-          src="https://skillicons.dev/icons?i=npm,vite,firebase,vercel,netlify,postman,devto,figma,ps,ai,pr,notion,bash,githubactions,sass"
+          src="https://skillicons.dev/icons?i=npm,pnpm,vite,firebase,vercel,netlify,postman,devto,figma,ps,ai,pr,notion,bash,githubactions,sass,cloudflare"
           height="40"
         />
       </td>
