@@ -86,7 +86,7 @@ As a **freelancer on Fiverr**, I have been successfully delivering **WordPress w
       <td colspan="2">
         <img
           src="https://skillicons.dev/icons?i=npm,pnpm,vite,firebase,vercel,netlify,postman,devto,figma,ps,ai,pr,notion,bash,githubactions,sass,cloudflare"
-          height="40"
+          height=auto
         />
       </td>
     </tr>
