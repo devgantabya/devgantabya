@@ -6,7 +6,7 @@ I design and build robust, high-performance web applications and scalable backen
 ---
 
 ### 🛠️ Tech Stack & Tooling
-**Core Languages    :** JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3
+**Core Languages    :** JavaScript (ES6+), TypeScript, PHP, SQL, HTML5, CSS3
 <br />
 **Frontend          :** React.js, Next.js, Tailwind CSS, TanStack Query, Framer Motion, Bootstrap
 <br />
@@ -22,7 +22,10 @@ I design and build robust, high-performance web applications and scalable backen
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-df4a25?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0068ba?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
   <br />
 
   <!-- Frontend -->
