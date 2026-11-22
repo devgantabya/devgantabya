@@ -15,6 +15,8 @@ I design and build robust, high-performance web applications and scalable backen
 **Data & Caching    :** PostgreSQL, MySQL, MongoDB, Redis, Prisma ORM, Mongoose
 <br />
 **DevOps & Cloud    :** Docker, Git, GitHub Actions, CI/CD Pipelines, Cloudflare R2, Firebase, Vercel, Postman
+<br />
+**CMS               :** WordPress, Shopify
 
 #### Badges & Visual Breakdown
 
@@ -32,6 +34,7 @@ I design and build robust, high-performance web applications and scalable backen
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7a12f8?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
   <br />
@@ -40,6 +43,7 @@ I design and build robust, high-performance web applications and scalable backen
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Laravel-242938?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <br />
 
@@ -49,6 +53,7 @@ I design and build robust, high-performance web applications and scalable backen
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/SQLite-3095d6?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <br />
 
   <!-- DevOps & Deployment -->
@@ -57,6 +62,17 @@ I design and build robust, high-performance web applications and scalable backen
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <br />
+
+  <!-- CMS -->
+  <img src="https://img.shields.io/badge/WordPress-0073aa?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Shopify-8db945?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <br />
+
+  <!-- Editor -->
+  <img src="https://img.shields.io/badge/VSCode-23a8ec?style=for-the-badge&logo=vscode&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Kiro-8b44f6?style=for-the-badge&logo=kiro&logoColor=white" alt="Kiro" />
+  <img src="https://img.shields.io/badge/Kiro-8b44f6?style=for-the-badge&logo=kiro&logoColor=white" alt="Kiro" />
 </p>
 
 ---
@@ -97,73 +113,7 @@ I design and build robust, high-performance web applications and scalable backen
 </p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devgantabya&label=Profile%20views&color=0e75b6&style=flat" alt="devgantabya" /> </p>
-
-### Tech Stack & Tools
-  <table>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td><strong>Backend</strong></td>
-    </tr>
-    <tr>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap"
-          height="40"
-        />
-      </td>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,php,prisma,laravel,swagger"
-          height="40"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Database</strong></td>
-      <td><strong>CMS (Content Management System)</strong></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis" 
-          height="40" 
-          />
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=wordpress"
-          height="40"
-          />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Version Control</strong></td>
-      <td><strong>Practice</strong></td>
-    </tr>
-    <tr>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=git,github"
-          height="40"
-        />
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=vscode,phpstorm,discord,codepen" 
-          height="40" 
-          />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2"><strong>Other Tools</strong></td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img
-          src="https://skillicons.dev/icons?i=npm,pnpm,vite,firebase,vercel,netlify,postman,devto,figma,ps,ai,pr,notion,bash,githubactions,sass,cloudflare"
-          height=auto
-        />
-      </td>
-    </tr>
-  </table>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devgantabya&label=Profile%20views&color=0e75b6&style=flat" alt="devgantabya" /> </p>  
 
 ---
 
