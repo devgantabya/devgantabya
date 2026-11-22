@@ -1,11 +1,24 @@
-# Hi, I'm Gantabya Kumar Bayda 👋
 ### Full Stack Software Engineer | Backend & Distributed Systems Enthusiast | Laravel Developer | WordPress Expert
-
-I design and build robust, high-performance web applications and scalable backend systems. With a strong foundation in modern TypeScript, full-stack architecture, and cloud workflows, I focus on turning complex product requirements into clean, production-ready software.
+---
+#### Find me here
+<p align="left">
+  <a href="https://gantabyacodes.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-gantabyacodes.vercel.app-blue?style=flat-square&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/devgantabya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-devgantabya-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/dev_gantabya" target="_blank">
+    <img src="https://img.shields.io/badge/X-@dev__gantabya-000000?style=flat-square&logo=x" alt="Twitter/X" />
+  </a>
+  <a href="mailto:gantabyakumarbayda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gantabyakumarbayda%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
 **Core Languages    :** JavaScript (ES6+), TypeScript, PHP, SQL, HTML5, CSS3
 <br />
 **Frontend          :** React.js, Next.js, Tailwind CSS, TanStack Query, Framer Motion, Bootstrap
@@ -18,7 +31,7 @@ I design and build robust, high-performance web applications and scalable backen
 <br />
 **CMS               :** WordPress, Shopify
 
-#### Badges & Visual Breakdown
+### Badges & Visual Breakdown
 
 <p align="left">
   <!-- Languages -->
@@ -79,39 +92,11 @@ I design and build robust, high-performance web applications and scalable backen
 
 ---
 
-### 💻 What I Focus On
+### GitHub Statistics
 
-* **Full-Stack Engineering:** Architecting end-to-end applications using Next.js/React on the client and modular Node.js/NestJS services on the backend.
-* **API Design & Security:** Building strictly typed RESTful APIs, microservices, and token-based authentication workflows (JWT, RBAC).
-* **Data Modeling & Optimization:** Managing relational and NoSQL data structures, indexing, and high-throughput caching layers using PostgreSQL, MongoDB, Redis, and Prisma.
-* **CI/CD & DevOps:** Containerizing applications via Docker and automating build, test, and deployment cycles using GitHub Actions.
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=devgantabya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gantabya's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgantabya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://gantabyacodes.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-gantabyacodes.vercel.app-blue?style=flat-square&logo=vercel" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/devgantabya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-devgantabya-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/dev_gantabya" target="_blank">
-    <img src="https://img.shields.io/badge/X-@dev__gantabya-000000?style=flat-square&logo=x" alt="Twitter/X" />
-  </a>
-  <a href="mailto:gantabyakumarbayda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gantabyakumarbayda%40gmail.com-EA4335?style=flat-square&logo=gmail" alt="Email" />
-  </a>
 </p>
 
 ---
@@ -119,7 +104,7 @@ I design and build robust, high-performance web applications and scalable backen
 
 ---
 
-## GitHub Activity
+### GitHub Activity
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgantabya&theme=github_dark)
 
