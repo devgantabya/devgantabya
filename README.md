@@ -70,9 +70,11 @@ I design and build robust, high-performance web applications and scalable backen
   <br />
 
   <!-- Editor -->
-  <img src="https://img.shields.io/badge/VSCode-23a8ec?style=for-the-badge&logo=vscode&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Cursor-12110b?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude_Code-d27352?style=for-the-badge&logo=claudecode&logoColor=white" alt="ClaudeCode" />
   <img src="https://img.shields.io/badge/Kiro-8b44f6?style=for-the-badge&logo=kiro&logoColor=white" alt="Kiro" />
-  <img src="https://img.shields.io/badge/Kiro-8b44f6?style=for-the-badge&logo=kiro&logoColor=white" alt="Kiro" />
+  <img src="https://img.shields.io/badge/Antigravity_IDE-3884ec?style=for-the-badge&logo=antigravity&logoColor=white" alt="Antigravity" />
 </p>
 
 ---
